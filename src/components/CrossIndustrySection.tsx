@@ -27,7 +27,7 @@ const industries = [
     lessonsForPE: [
       "Signal-based sourcing: VCs use real-time signals (hiring surges, product launches, web traffic) to identify companies early. PE could adopt similar approaches for mid-market targets.",
       "Community-driven discovery: VCs source from founder communities and events. PE could build similar channels with industry operators and trade associations.",
-      "AI-first tools: VC has embraced AI-native discovery tools (Harmonic, Glasswing) faster than PE. The PE market is ripe for similar innovation.",
+      "AI-first tools: VC has embraced AI-native discovery tools (Harmonic, Signal by NFX) faster than PE. The PE market is ripe for similar innovation.",
     ],
   },
   {

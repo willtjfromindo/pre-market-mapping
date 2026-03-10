@@ -67,7 +67,7 @@ const painPoints = [
     problem:
       "Before every call or email, analysts pull together company info from PitchBook, founder background from LinkedIn, recent news from Google, financials from Capital IQ, and competitive context from the market map.",
     whyMatters:
-      "The quality of outreach directly impacts conversion. A well-researched cold email that references specific company milestones converts 3–5x better than a generic template.",
+      "The quality of outreach directly impacts conversion. Personalized emails that reference specific company milestones see significantly higher response rates — up to 50% improvement over generic templates.",
     consequence:
       "Outreach prep takes 15–30 minutes per company. For a pipeline of 50 targets, that's 12–25 hours of pure information compilation.",
     severity: 75,
