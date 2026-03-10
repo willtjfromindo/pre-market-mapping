@@ -3,6 +3,7 @@
 import Navigation from "@/components/Navigation";
 import HeroSection from "@/components/HeroSection";
 import WhatIsSection from "@/components/WhatIsSection";
+import MarketMapExample from "@/components/MarketMapExample";
 import AnalystWorkflowSection from "@/components/AnalystWorkflowSection";
 import ToolLandscapeSection from "@/components/ToolLandscapeSection";
 import PainPointsSection from "@/components/PainPointsSection";
@@ -22,6 +23,10 @@ export default function Home() {
       <div className="h-px bg-gradient-to-r from-transparent via-zinc-800 to-transparent" />
 
       <WhatIsSection />
+
+      <div className="h-px bg-gradient-to-r from-transparent via-zinc-800 to-transparent" />
+
+      <MarketMapExample />
 
       <div className="h-px bg-gradient-to-r from-transparent via-zinc-800 to-transparent" />
 
